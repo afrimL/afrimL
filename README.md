@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afrimL
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me afrim.lita@gmail.com
 
 <!---
